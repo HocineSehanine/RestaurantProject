@@ -1,6 +1,7 @@
 export interface MenuItem {
   id: number;
   name: string;
+  details?: string;
   price: number;
 }
 export interface BebidasType {

@@ -8,7 +8,7 @@ export class MenuService {
     this.menuData = {
       bebidas: {
         semAlcool: {
-          suco: [{ id: 1, name: 'Suco de Laranja', price: 3.50 }, { id: 2, name: 'Suco de Maçã', price: 3.00 }],
+          suco: [{ id: 1, name: 'Suco de Laranja', price: 3.50 }, { id: 2, name: 'Suco de Maçã', price: 3.00 }, { id: 3, details: "Couve, maçã, gengibre", name: 'Detox clorofila', price: 3.00 }],
           refrigirante: [{ id: 1, name: 'Coca-Cola', price: 2.50 }, { id: 2, name: 'Pepsi', price: 2.00 }],
         },
         comAlcool: {

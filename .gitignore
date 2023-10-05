@@ -4,11 +4,3 @@ node_modules/
 # Ignore TypeScript build output
 dist/
 
-# Ignore editor and IDE files
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
